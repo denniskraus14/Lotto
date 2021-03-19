@@ -1,4 +1,4 @@
-#lottery simulation
+#lottery simulation (test)
 
 #key:
 #A 5 $2 tickets ($10/week)
